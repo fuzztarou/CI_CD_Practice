@@ -1,1 +1,3 @@
 testenv/
+src/__pycache__/
+test_src/__pycache__
